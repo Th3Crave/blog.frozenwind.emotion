@@ -1,0 +1,16 @@
+{
+    "name": "我的无人之境",
+    "short_name": "吕乘风",
+    "icons": [
+        {
+            "src": "./icons/feng.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fcfaf2",
+    "background_color": "#fff",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "start_url": "./"
+}
