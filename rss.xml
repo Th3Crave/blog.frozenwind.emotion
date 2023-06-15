@@ -9,7 +9,7 @@
     <channel>
         <title>frozeNwInd</title>
         <link>https://emotion.frozenwind.online/</link>
-        <description>一个关于哲学的博客</description>
+        <description>无人之境</description>
         <generator>Hugo 0.89.4 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
@@ -23,7 +23,7 @@
         
             <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
         
-        <lastBuildDate>Sun, 11 Jun 2023 03:57:10 &#43;0000</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 05:33:01 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://emotion.frozenwind.online/rss.xml" />
         
