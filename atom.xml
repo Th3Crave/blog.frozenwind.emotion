@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">frozeNwInd</title>
     <subtitle type="html">无人之境</subtitle>
-    <updated>2024-04-01T02:17:14&#43;00:00</updated>
+    <updated>2024-04-01T02:23:05&#43;00:00</updated>
     <id>https://emotion.feng.guru/</id>
     <link rel="alternate" type="text/html" href="https://emotion.feng.guru/" />
     <link rel="self" type="application/atom&#43;xml" href="https://emotion.feng.guru/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">孙子兵法：始计第一</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/sun-zi-bing-fa-ji/" />
             <id>https://emotion.feng.guru/excerpts/sun-zi-bing-fa-ji/</id>
-            <updated>2024-04-01T02:17:10&#43;00:00</updated>
+            <updated>2024-04-01T02:23:02&#43;00:00</updated>
             <published>2024-03-11T17:08:51&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -65,7 +65,7 @@
             <title type="text">余华：写作</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/yu-hua-writing/" />
             <id>https://emotion.feng.guru/excerpts/yu-hua-writing/</id>
-            <updated>2024-04-01T02:17:10&#43;00:00</updated>
+            <updated>2024-04-01T02:23:02&#43;00:00</updated>
             <published>2022-05-16T22:03:34&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -138,7 +138,7 @@
             <title type="text">培根：《伟大的复兴》前言</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/francis-bacon-the-great-instauration-preface/" />
             <id>https://emotion.feng.guru/excerpts/francis-bacon-the-great-instauration-preface/</id>
-            <updated>2024-04-01T02:17:10&#43;00:00</updated>
+            <updated>2024-04-01T02:23:02&#43;00:00</updated>
             <published>2021-08-19T19:56:51&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -237,7 +237,7 @@
             <title type="text">本杰明·富兰克林：美德</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/benjamin-franklin-virtue/" />
             <id>https://emotion.feng.guru/excerpts/benjamin-franklin-virtue/</id>
-            <updated>2024-04-01T02:17:10&#43;00:00</updated>
+            <updated>2024-04-01T02:23:02&#43;00:00</updated>
             <published>2021-06-13T19:42:05&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -424,7 +424,7 @@
             <title type="text">尼采：未来的哲人</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/nietzsche-future-philosophers/" />
             <id>https://emotion.feng.guru/excerpts/nietzsche-future-philosophers/</id>
-            <updated>2024-04-01T02:17:10&#43;00:00</updated>
+            <updated>2024-04-01T02:23:02&#43;00:00</updated>
             <published>2021-04-14T20:17:32&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -490,7 +490,7 @@
             <title type="text">彼得·普特兹：尼采</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/peter-putz-friedrich-nietzsche/" />
             <id>https://emotion.feng.guru/excerpts/peter-putz-friedrich-nietzsche/</id>
-            <updated>2024-04-01T02:17:10&#43;00:00</updated>
+            <updated>2024-04-01T02:23:02&#43;00:00</updated>
             <published>2021-04-13T20:38:40&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -604,7 +604,7 @@
             <title type="text">罗素：哲学、科学、伦理，与探索的方法</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/bertrand-russell-philosophy-science-ethics-and-the-way-to-explore/" />
             <id>https://emotion.feng.guru/excerpts/bertrand-russell-philosophy-science-ethics-and-the-way-to-explore/</id>
-            <updated>2024-04-01T02:17:10&#43;00:00</updated>
+            <updated>2024-04-01T02:23:02&#43;00:00</updated>
             <published>2021-04-07T20:12:17&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -700,7 +700,7 @@
             <title type="text">罗素：《西方哲学史》结语</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/bertrand-russell-end-notes-of-history-of-western-philosophy/" />
             <id>https://emotion.feng.guru/excerpts/bertrand-russell-end-notes-of-history-of-western-philosophy/</id>
-            <updated>2024-04-01T02:17:10&#43;00:00</updated>
+            <updated>2024-04-01T02:23:02&#43;00:00</updated>
             <published>2021-03-09T10:11:58&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -791,7 +791,7 @@
             <title type="text">老子：不盈</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/lao-tzu-unfulfilled/" />
             <id>https://emotion.feng.guru/excerpts/lao-tzu-unfulfilled/</id>
-            <updated>2024-04-01T02:17:10&#43;00:00</updated>
+            <updated>2024-04-01T02:23:02&#43;00:00</updated>
             <published>2021-03-06T15:28:40&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -851,7 +851,7 @@
             <title type="text">罗素：浪漫、理性，与孤独</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/bertrand-russell-romanticism-rationality-and-solitary/" />
             <id>https://emotion.feng.guru/excerpts/bertrand-russell-romanticism-rationality-and-solitary/</id>
-            <updated>2024-04-01T02:17:10&#43;00:00</updated>
+            <updated>2024-04-01T02:23:02&#43;00:00</updated>
             <published>2020-12-03T23:33:07&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
