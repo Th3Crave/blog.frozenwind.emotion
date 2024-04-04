@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">frozeNwInd</title>
     <subtitle type="html">无人之境</subtitle>
-    <updated>2024-04-01T02:32:55&#43;00:00</updated>
+    <updated>2024-04-04T10:28:43&#43;00:00</updated>
     <id>https://emotion.feng.guru/</id>
     <link rel="alternate" type="text/html" href="https://emotion.feng.guru/" />
     <link rel="self" type="application/atom&#43;xml" href="https://emotion.feng.guru/atom.xml" />
@@ -17,10 +17,55 @@
     <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights>
     <generator uri="https://gohugo.io/" version="0.89.4">Hugo</generator>
         <entry>
+            <title type="text">老子 道德经</title>
+            <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/lao-tzu-dao-de-jing/" />
+            <id>https://emotion.feng.guru/excerpts/lao-tzu-dao-de-jing/</id>
+            <updated>2024-04-04T10:28:41&#43;00:00</updated>
+            <published>2024-04-04T17:31:12&#43;08:00</published>
+            <author>
+                    <name>吕乘风</name>
+                    <uri>https://feng.guru/</uri>
+                    <email>main@feng.guru</email>
+                    </author>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">天地不仁，以万物为刍狗；圣人不仁，以百姓为刍狗。 道经 第一章 众妙之门 道，可道，非常道；……</summary>
+            
+                <content type="html">&lt;p&gt;天地不仁，以万物为刍狗；圣人不仁，以百姓为刍狗。&lt;/p&gt;
+&lt;p&gt;道经&lt;/p&gt;
+&lt;p&gt;第一章 众妙之门
+道，可道，非常道；名，可名，非常名。无，名天地之始；有，名万物之母。故常无，欲以观其妙；常有，欲以观其徼。此两者，同出而异名，同谓之玄。玄之又玄，众妙之门。&lt;/p&gt;
+&lt;p&gt;第二章 功成弗居
+天下皆知美之为美，斯恶已；皆知善之为善，斯不善已。故有无相生，难易相成，长短相较，高下相倾，音声相和，前后相随。是以圣人处无为之事，行不言之教；万物作焉而不辞，生而不有，为而不恃，功成而弗居。夫唯弗居，是以不去。&lt;/p&gt;
+&lt;p&gt;第三章 圣人之治
+不尚贤，使民不争；不贵难得之货，使民不为盗；不见可欲，使民心不乱。是以圣人之治，虚其心，实其腹，弱其志，强其骨。常使民无知无欲，使夫智者不敢为也。为无为，则无不治。&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://emotion.feng.guru/excerpts/" term="excerpts" label="excerpts" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">黄帝内经 素问：上古天真论</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/hdnj-suwen-sgtzl/" />
             <id>https://emotion.feng.guru/excerpts/hdnj-suwen-sgtzl/</id>
-            <updated>2024-04-01T02:32:52&#43;00:00</updated>
+            <updated>2024-04-04T10:28:41&#43;00:00</updated>
             <published>2024-04-01T10:31:08&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -66,16 +111,18 @@
             <title type="text">孙子兵法：始计第一</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/sun-zi-bing-fa-ji/" />
             <id>https://emotion.feng.guru/excerpts/sun-zi-bing-fa-ji/</id>
-            <updated>2024-04-01T02:32:52&#43;00:00</updated>
+            <updated>2024-04-04T10:28:41&#43;00:00</updated>
             <published>2024-03-11T17:08:51&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
                     <uri>https://feng.guru/</uri>
                     <email>main@feng.guru</email>
                     </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html"></summary>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">孙子兵法，计算，而非算计。 孙子兵法，不是战法，是不战之法；不是战胜之法，是不战而胜之……</summary>
             
-                <content type="html"></content>
+                <content type="html">&lt;p&gt;孙子兵法，计算，而非算计。&lt;/p&gt;
+&lt;p&gt;孙子兵法，不是战法，是不战之法；不是战胜之法，是不战而胜之法；不是战而后胜之法，是先胜而后战之法。&lt;/p&gt;
+</content>
             
             
             
@@ -111,7 +158,7 @@
             <title type="text">余华：写作</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/yu-hua-writing/" />
             <id>https://emotion.feng.guru/excerpts/yu-hua-writing/</id>
-            <updated>2024-04-01T02:32:52&#43;00:00</updated>
+            <updated>2024-04-04T10:28:41&#43;00:00</updated>
             <published>2022-05-16T22:03:34&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -184,7 +231,7 @@
             <title type="text">培根：《伟大的复兴》前言</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/francis-bacon-the-great-instauration-preface/" />
             <id>https://emotion.feng.guru/excerpts/francis-bacon-the-great-instauration-preface/</id>
-            <updated>2024-04-01T02:32:52&#43;00:00</updated>
+            <updated>2024-04-04T10:28:41&#43;00:00</updated>
             <published>2021-08-19T19:56:51&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -283,7 +330,7 @@
             <title type="text">本杰明·富兰克林：美德</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/benjamin-franklin-virtue/" />
             <id>https://emotion.feng.guru/excerpts/benjamin-franklin-virtue/</id>
-            <updated>2024-04-01T02:32:52&#43;00:00</updated>
+            <updated>2024-04-04T10:28:41&#43;00:00</updated>
             <published>2021-06-13T19:42:05&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -470,7 +517,7 @@
             <title type="text">尼采：未来的哲人</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/nietzsche-future-philosophers/" />
             <id>https://emotion.feng.guru/excerpts/nietzsche-future-philosophers/</id>
-            <updated>2024-04-01T02:32:52&#43;00:00</updated>
+            <updated>2024-04-04T10:28:41&#43;00:00</updated>
             <published>2021-04-14T20:17:32&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -536,7 +583,7 @@
             <title type="text">彼得·普特兹：尼采</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/peter-putz-friedrich-nietzsche/" />
             <id>https://emotion.feng.guru/excerpts/peter-putz-friedrich-nietzsche/</id>
-            <updated>2024-04-01T02:32:52&#43;00:00</updated>
+            <updated>2024-04-04T10:28:41&#43;00:00</updated>
             <published>2021-04-13T20:38:40&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -650,7 +697,7 @@
             <title type="text">罗素：哲学、科学、伦理，与探索的方法</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/bertrand-russell-philosophy-science-ethics-and-the-way-to-explore/" />
             <id>https://emotion.feng.guru/excerpts/bertrand-russell-philosophy-science-ethics-and-the-way-to-explore/</id>
-            <updated>2024-04-01T02:32:52&#43;00:00</updated>
+            <updated>2024-04-04T10:28:41&#43;00:00</updated>
             <published>2021-04-07T20:12:17&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -746,7 +793,7 @@
             <title type="text">罗素：《西方哲学史》结语</title>
             <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/bertrand-russell-end-notes-of-history-of-western-philosophy/" />
             <id>https://emotion.feng.guru/excerpts/bertrand-russell-end-notes-of-history-of-western-philosophy/</id>
-            <updated>2024-04-01T02:32:52&#43;00:00</updated>
+            <updated>2024-04-04T10:28:41&#43;00:00</updated>
             <published>2021-03-09T10:11:58&#43;08:00</published>
             <author>
                     <name>吕乘风</name>
@@ -826,66 +873,6 @@
                             
                             
                                 <category scheme="https://emotion.feng.guru/tags/%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6%E5%8F%B2/" term="《西方哲学史》" label="《西方哲学史》" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">老子：不盈</title>
-            <link rel="alternate" type="text/html" href="https://emotion.feng.guru/excerpts/lao-tzu-unfulfilled/" />
-            <id>https://emotion.feng.guru/excerpts/lao-tzu-unfulfilled/</id>
-            <updated>2024-04-01T02:32:52&#43;00:00</updated>
-            <published>2021-03-06T15:28:40&#43;08:00</published>
-            <author>
-                    <name>吕乘风</name>
-                    <uri>https://feng.guru/</uri>
-                    <email>main@feng.guru</email>
-                    </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">古之善为道者， 微妙玄通，深不可识。 夫唯不可识， 故强为之容： 豫兮，若冬涉川； 犹兮，若畏……</summary>
-            
-                <content type="html">&lt;p&gt;古之善为道者，&lt;br&gt;
-微妙玄通，深不可识。&lt;/p&gt;
-&lt;p&gt;夫唯不可识，&lt;br&gt;
-故强为之容：&lt;br&gt;
-豫兮，若冬涉川；&lt;br&gt;
-犹兮，若畏四邻；&lt;br&gt;
-俨兮，其若客；&lt;br&gt;
-涣兮，其若凌释；&lt;br&gt;
-敦兮，其若朴；&lt;br&gt;
-旷兮，其若谷；&lt;br&gt;
-混兮，其若浊。&lt;/p&gt;
-&lt;p&gt;浊而静之，徐清。&lt;br&gt;
-安以动之，徐生。&lt;br&gt;
-保此道者，不欲盈。&lt;br&gt;
-夫唯不盈，故能蔽不新成。&lt;/p&gt;
-</content>
-            
-            
-            
-                
-                
-                
-                    
-                    
-                    
-                        
-                            <category scheme="https://emotion.feng.guru/excerpts/" term="excerpts" label="excerpts" />
-                        
-                    
-                
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emotion.feng.guru/tags/%E8%80%81%E5%AD%90/" term="《老子》" label="《老子》" />
                             
                         
                     
